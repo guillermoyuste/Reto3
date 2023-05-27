@@ -1,13 +1,13 @@
-<<<<<<< HEAD
+
 # PEC3: Visionando el futuro con las gafas de Manovich 
 
 ### Recurso de aprendizaje de Cultura Digital 
 
 
-Autor: 
+Autor: Guillermo Y Fernández 
 
 
-Fecha: 
+Fecha: 27/05/2023
 
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
@@ -38,6 +38,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ----
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
-=======
-# Reto3
->>>>>>> 86a2ecdd769460b93b1d89022cc64fa6f0c74365
+
+
