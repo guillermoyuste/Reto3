@@ -19,6 +19,10 @@ Fecha: 27/05/2023
 Vivimos en una época donde los elementos de diversas procedencias y disciplinas se entrelazan de manera sorprendente para forjar innovadoras formas y conceptos.
 La hibridación se ha consolidado como un rasgo distintivo de nuestra cultura contemporánea, posibilitando el surgimiento de inéditas formas de expresión. En esta nueva contexto cultural, lo digital y lo analógico, lo físico y lo virtual, lo orgánico y lo artificial, convergen para dar lugar a un nuevas formas de arte y expresión.
 
+Dos ejemplos ilustrativos de esta hibridación  que vamos a usar en este ensayo son los tokens no fungibles (NFTs) y la combinación de la realidad virtual (RV) con el teatro en vivo. Los NFTs están redefiniendo nuestra comprensión del arte, vinculando lo digital con lo físico.
+En el caso  del teatro en vivo con RV propone una experiencia novedosa e inmersiva, uniendo dos formas de expresión que antes se percibían como mutuamente excluyentes.
+Ambos casos demuestran el poder transformador de la hibridación en la cultura contemporánea, revelando cómo se pueden superar los límites previos y se pueden explorar nuevas fronteras en la creación y la experiencia artísticas.
+
 
 ## Re-descubriendo la hibridacion: Caso 1
 
