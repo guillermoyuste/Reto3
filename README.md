@@ -26,7 +26,7 @@ Ambos casos demuestran el poder transformador de la hibridación en la cultura c
 
 ## Re-descubriendo la hibridacion en el mundo digital: NFT y el entrecruzamiento del arte físico y digital
 
-!(https://unsplash.com/es/fotos/hbFKxsIqclc)
+!(https://pixabay.com/es/illustrations/infierno-purgatorio-cielo-escalera-735995/)
 
 En el cambiante paisaje cultural de la era digital, la intersección de lo físico y lo digital da lugar a nuevas formas de expresión y de participación creativa. haciendo posible la  mezcla y fusión de medios, estilos y tecnologías que están remodelando nuestras nociones de creatividad y de propiedad. El ejemplo paradigmático de esta hibridación es la emergencia de los tokens no fungibles (NFT) en el mundo del arte.
 
@@ -75,7 +75,7 @@ La incorporación de la realidad virtual en el teatro en vivo es un ejemplo de c
 * Sherman, William R., & Craig, Alan B. (2002). **Understanding Virtual Reality: Interface, Application, and Design. Morgan Kaufmann**.
 
 ### Imágenes 
-* https://unsplash.com/es
+* https://pixabay.com/
 
 
 
