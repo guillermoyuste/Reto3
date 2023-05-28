@@ -45,6 +45,8 @@ Definitivamente, este cambio en la valoración del arte es un ejemplo de cómo l
 
 ## Re-descubriendo la hibridacion en la escena Contemporánea: Realidad Virtual y Teatro en Vivo
 
+![Teatro](https://images.unsplash.com/photo-1574267432309-3c7d5ed31b9e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1031&q=80)
+
 En la era digital, las experiencias culturales y las artes visuales se están transformando a un ritmo acelerado. A medida que la tecnología digital se integra cada vez más en nuestro tejido social y cultural, observamos un fenómeno fascinante de hibridación, donde las fronteras entre lo digital y lo físico, lo nuevo y lo antiguo, están siendo constantemente redefinidas. Un escenario perfecto de esta hibridación se encuentra en el cruce entre la realidad virtual (RV) y el teatro en vivo.
 
 El teatro, por definición y desde hace siglos, siempre ha sido un arte de la presencia física y la interacción en vivo, pero hoy se encuentra en un momento de transición y experimentación, con algunas compañías de teatro incorporando la realidad virtual en sus producciones. Este híbrido teatro-RV demuestra cómo la hibridación puede generar nuevas formas de experiencia teatral y, al mismo tiempo, replantear nuestras ideas sobre el teatro y la presencia.
@@ -76,6 +78,7 @@ La incorporación de la realidad virtual en el teatro en vivo es un ejemplo de c
 
 ### Imágenes 
 * https://pixabay.com/
+* https://unsplash.com/es
 
 
 
