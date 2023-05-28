@@ -26,6 +26,8 @@ Ambos casos demuestran el poder transformador de la hibridación en la cultura c
 
 ## Re-descubriendo la hibridacion en el mundo digital: NFT y el entrecruzamiento del arte físico y digital
 
+!(https://unsplash.com/es/fotos/hbFKxsIqclc)
+
 En el cambiante paisaje cultural de la era digital, la intersección de lo físico y lo digital da lugar a nuevas formas de expresión y de participación creativa. haciendo posible la  mezcla y fusión de medios, estilos y tecnologías que están remodelando nuestras nociones de creatividad y de propiedad. El ejemplo paradigmático de esta hibridación es la emergencia de los tokens no fungibles (NFT) en el mundo del arte.
 
 Los NFT están reconfigurando nuestra comprensión del arte y su valor en la economía digital. Son una forma de arte digital que se vende y se compra en el mercado digital utilizando blockchain, la misma tecnología subyacente que se utiliza en las criptomonedas. Cada NFT es único y, por tanto, no intercambiable o fungible.
@@ -45,15 +47,20 @@ Definitivamente, este cambio en la valoración del arte es un ejemplo de cómo l
 
 En la era digital, las experiencias culturales y las artes visuales se están transformando a un ritmo acelerado. A medida que la tecnología digital se integra cada vez más en nuestro tejido social y cultural, observamos un fenómeno fascinante de hibridación, donde las fronteras entre lo digital y lo físico, lo nuevo y lo antiguo, están siendo constantemente redefinidas. Un escenario perfecto de esta hibridación se encuentra en el cruce entre la realidad virtual (RV) y el teatro en vivo.
 
-El teatro siempre ha sido un arte de la presencia física y la interacción en vivo, pero hoy se encuentra en un momento de transición y experimentación, con algunas compañías de teatro incorporando la realidad virtual en sus producciones. Este híbrido teatro-RV demuestra cómo la hibridación puede generar nuevas formas de experiencia teatral y, al mismo tiempo, replantear nuestras ideas sobre el teatro y la presencia.
+El teatro, por definición y desde hace siglos, siempre ha sido un arte de la presencia física y la interacción en vivo, pero hoy se encuentra en un momento de transición y experimentación, con algunas compañías de teatro incorporando la realidad virtual en sus producciones. Este híbrido teatro-RV demuestra cómo la hibridación puede generar nuevas formas de experiencia teatral y, al mismo tiempo, replantear nuestras ideas sobre el teatro y la presencia.
 
-La incorporación de la RV en el teatro en vivo puede verse como una forma de remediación. La remediación es un proceso por el cual los nuevos medios adaptan y transforman las formas y convenciones de los medios tradicionales. En el caso de las producciones teatrales de RV, la RV no reemplaza al teatro en vivo, sino que lo remedia, abriendo nuevas formas de narración y de experiencia.
+La incorporación de la RV en el teatro en vivo puede verse como una forma de remediación. Cómo ya hemos hablado, la remediación es un proceso por el cual los nuevos medios adaptan y transforman las formas y convenciones de los medios tradicionales. En el caso de las producciones teatrales de RV, la RV no reemplaza al teatro en vivo, sino que lo remedia, abriendo nuevas formas de narración y de experiencia.
 
-Por un lado, la RV puede remediar la experiencia teatral al amplificar su potencial inmersivo. Permite a los espectadores explorar virtualmente el escenario o incluso adoptar la perspectiva de los personajes, proporcionando una experiencia teatral intensamente personal e íntima. Por otro lado, la presencia física y la interacción en vivo del teatro pueden remediar las experiencias de RV, haciéndolas más corpóreas y tangibles.
+Por un lado, la RV remedia la experiencia teatral al amplificar su potencial inmersivo. Permite a los espectadores explorar virtualmente el escenario o incluso adoptar la perspectiva de los personajes, proporcionando una experiencia teatral intensamente personal y única.
+Por otro lado, la presencia física y la interacción en vivo del teatro pueden completar las experiencias de RV, haciéndolas más corpóreas y tangibles.
 
-Este híbrido teatro-RV es una manifestación fascinante de la hibridación de los medios. Combina la inmediatez y la corporalidad del teatro en vivo con la inmersión y la interactividad de la RV. La obra de teatro híbrida es, por tanto, tanto física como digital, tanto inmediata como inmersiva.
+En resumen, creemos que este híbrido teatro-RV es una manifestación fascinante de la hibridación de los medios. Combina la inmediatez y la corporalidad del teatro en vivo con la inmersión y la interactividad de la RV. La obra de teatro híbrida es, por tanto, tanto física como digital, tanto inmediata como inmersiva.
 
-Además, este híbrido plantea cuestiones interesantes sobre la naturaleza y el futuro del teatro. ¿Cómo cambia nuestra idea de la presencia y la performance en el teatro cuando la realidad virtual se convierte en parte de la ecuación? ¿Cómo se redefine la relación entre los actores y la audiencia en el teatro híbrido de RV?
+Además, este híbrido plantea cuestiones interesantes sobre la naturaleza y el futuro del teatro:
+ ¿Cómo cambia nuestra idea de la presencia y la performance en el teatro cuando la realidad virtual se convierte en parte de la ecuación?
+  ¿Cómo se redefine la relación entre los actores y la audiencia en el teatro híbrido de RV?
+  ¿hasta dónde quiere llegar el espectador? 
+  ¿hasta dónde llega el trabajo de las actores?
 
 La incorporación de la realidad virtual en el teatro en vivo es un ejemplo de cómo la hibridación puede abrir nuevas posibilidades creativas y experiencias culturales. A medida que la tecnología digital sigue avanzando, estamos presenciando un creciente entrecruzamiento de lo físico y lo digital, un espacio de hibridación donde lo viejo y lo nuevo, lo tangible y lo virtual, se funden y se transforman continuamente.
 
@@ -66,6 +73,9 @@ La incorporación de la realidad virtual en el teatro en vivo es un ejemplo de c
 * De Filippi, Primavera, & Hassan, Samer. (2016). **Blockchain technology as a regulatory technology: From code is law to law is code**. First Monday.
 * Auslander, Philip. (1999). **Liveness: Performance in a Mediatized Culture. Routledge**
 * Sherman, William R., & Craig, Alan B. (2002). **Understanding Virtual Reality: Interface, Application, and Design. Morgan Kaufmann**.
+
+### Imágenes 
+* https://unsplash.com/es
 
 
 
