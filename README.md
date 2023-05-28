@@ -16,7 +16,8 @@ Fecha: 27/05/2023
 ## Planteamiento
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Vivimos en una época donde los elementos de diversas procedencias y disciplinas se entrelazan de manera sorprendente para forjar innovadoras formas y conceptos.
+La hibridación se ha consolidado como un rasgo distintivo de nuestra cultura contemporánea, posibilitando el surgimiento de inéditas formas de expresión. En esta nueva contexto cultural, lo digital y lo analógico, lo físico y lo virtual, lo orgánico y lo artificial, convergen para dar lugar a un nuevas formas de arte y expresión.
 
 
 ## Re-descubriendo la hibridacion: Caso 1
