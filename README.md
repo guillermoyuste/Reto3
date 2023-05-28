@@ -41,9 +41,21 @@ Sin lugar a dudas, la vinculación de NFT con obras de arte físicas también pl
 Definitivamente, este cambio en la valoración del arte es un ejemplo de cómo la hibridación digital está cambiando nuestra comprensión de la cultura y la creatividad. Los NFT híbridos son una muestra de cómo la cultura digital está redefiniendo la forma en que valoramos y participamos en el arte, y cómo la hibridación está acabando las fronteras entre los medios físicos y digitales.
 
 
-## Re-descubriendo la hibridacion: Caso 2
+## Re-descubriendo la hibridacion en la escena Contemporánea: Realidad Virtual y Teatro en Vivo
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+En la era digital, las experiencias culturales y las artes visuales se están transformando a un ritmo acelerado. A medida que la tecnología digital se integra cada vez más en nuestro tejido social y cultural, observamos un fenómeno fascinante de hibridación, donde las fronteras entre lo digital y lo físico, lo nuevo y lo antiguo, están siendo constantemente redefinidas. Un escenario perfecto de esta hibridación se encuentra en el cruce entre la realidad virtual (RV) y el teatro en vivo.
+
+El teatro siempre ha sido un arte de la presencia física y la interacción en vivo, pero hoy se encuentra en un momento de transición y experimentación, con algunas compañías de teatro incorporando la realidad virtual en sus producciones. Este híbrido teatro-RV demuestra cómo la hibridación puede generar nuevas formas de experiencia teatral y, al mismo tiempo, replantear nuestras ideas sobre el teatro y la presencia.
+
+La incorporación de la RV en el teatro en vivo puede verse como una forma de remediación. La remediación es un proceso por el cual los nuevos medios adaptan y transforman las formas y convenciones de los medios tradicionales. En el caso de las producciones teatrales de RV, la RV no reemplaza al teatro en vivo, sino que lo remedia, abriendo nuevas formas de narración y de experiencia.
+
+Por un lado, la RV puede remediar la experiencia teatral al amplificar su potencial inmersivo. Permite a los espectadores explorar virtualmente el escenario o incluso adoptar la perspectiva de los personajes, proporcionando una experiencia teatral intensamente personal e íntima. Por otro lado, la presencia física y la interacción en vivo del teatro pueden remediar las experiencias de RV, haciéndolas más corpóreas y tangibles.
+
+Este híbrido teatro-RV es una manifestación fascinante de la hibridación de los medios. Combina la inmediatez y la corporalidad del teatro en vivo con la inmersión y la interactividad de la RV. La obra de teatro híbrida es, por tanto, tanto física como digital, tanto inmediata como inmersiva.
+
+Además, este híbrido plantea cuestiones interesantes sobre la naturaleza y el futuro del teatro. ¿Cómo cambia nuestra idea de la presencia y la performance en el teatro cuando la realidad virtual se convierte en parte de la ecuación? ¿Cómo se redefine la relación entre los actores y la audiencia en el teatro híbrido de RV?
+
+La incorporación de la realidad virtual en el teatro en vivo es un ejemplo de cómo la hibridación puede abrir nuevas posibilidades creativas y experiencias culturales. A medida que la tecnología digital sigue avanzando, estamos presenciando un creciente entrecruzamiento de lo físico y lo digital, un espacio de hibridación donde lo viejo y lo nuevo, lo tangible y lo virtual, se funden y se transforman continuamente.
 
 
 ### Referencias y Bibliografía
@@ -52,6 +64,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * Baudrillard, Jean. (1981). **Simulacra and Simulation**. University of Michigan Press.
 * Gere, Charlie. (2006). **Art, Time and Technology: Histories of the Disappearing Body**. Bloomsbury Academic.
 * De Filippi, Primavera, & Hassan, Samer. (2016). **Blockchain technology as a regulatory technology: From code is law to law is code**. First Monday.
+* Auslander, Philip. (1999). **Liveness: Performance in a Mediatized Culture. Routledge**
+* Sherman, William R., & Craig, Alan B. (2002). **Understanding Virtual Reality: Interface, Application, and Design. Morgan Kaufmann**.
 
 
 
